@@ -37,7 +37,7 @@ A modern, feature-rich todo application built with React and Vite.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-todo-app.git
+   git clone https://github.com/Pathum987/ToDo-App
    cd react-todo-app
    ```
 
