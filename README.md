@@ -2,7 +2,7 @@
 
 A modern, feature-rich todo application built with React and Vite.
 
-![Todo App Preview](https://to-do-app-ruddy-rho-35.vercel.app/)
+[Live Project Preview](https://to-do-app-ruddy-rho-35.vercel.app/)
 
 ## ✨ Features
 
